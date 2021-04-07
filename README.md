@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aFachi.
+  👋 Hi, I’m @aFachi.
 
 - 👀 I major in philosophy and take programming courses.
 - 🌱 I have already taken the HTML, CSS and Javascript courses.
