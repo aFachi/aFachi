@@ -1,6 +1,5 @@
   👋 Hi, I’m @aFachi.
 
-- 👀 I major in philosophy and take programming courses.
-- 🌱 I have already taken the HTML, CSS and Javascript courses.
+- 👀 I am a Software Engineering student
 
 - 📫 How to reach me: tuiofachi@gmail.com
