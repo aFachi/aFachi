@@ -15,7 +15,7 @@ Quick summary here in README, to see my work and my academic and professional tr
 <br>
 <p align="center"> :dog2: I love animals, I love writing code and I always keep learning something new. </p>
 <br>
-<p align="center"> If you want to talk to me you can send me an <a href="arthurfachi@hotmail.com"<u> e-mail.</u></a> </p>
+<p align="center"> :e-mail: If you want to talk to me you can send me an <a href="arthurfachi@hotmail.com"<u> e-mail.</u></a> </p>
 
 <hr>
 <h2 align="center">💪 Skills (for now) </h2>
