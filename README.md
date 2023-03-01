@@ -7,7 +7,7 @@ My name is Arthur S. Fachi :smiley:
 <br>
 <h3 align="center">
 <em>
-Quick summary here in README, to see my work and my academic and professional trajectory go <a href="https://afachi.github.io/"><u>HERE</u></a>.
+Quick summary here in README, to see my work and my academic and professional trajectory go <u>HERE</u>.
 </em>
 </h3>
 <br>
