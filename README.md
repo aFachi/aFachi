@@ -43,28 +43,14 @@ If you're looking for my latest code, scalable architectures, or professional po
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🏢 <strong>Currently:</strong> Senior Software Engineer designing and managing robust technical projects at <strong><a href="https://github.com/Evoris-Software">Evoris Software</a></strong>.</li>
-        <li>💻 <strong>Software Engineering (Bachelor's)</strong> at <a href="https://estacio.br/">Estácio de Sá</a> <em>(Graduated: Early 2026)</em></li>
-        <li>🏛️ <strong>Philosophy:</strong> 
-          <ul>
-            <li>📜 Bachelor's from <a href="https://www.ufsm.br/">UFSM</a> <em>(Completed)</em></li>
-            <li>🎓 Master's Degree from UFSM <em>(Expected: 2026)</em></li>
-            <li>📚 Licentiate Degree from UFSM <em>(Expected: 2027)</em></li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <h3>🔥 Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aFachi&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=c9d1d9" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+### 👨‍💻 About Me
+
+- 🏢 **Currently:** Senior Software Engineer designing and managing robust technical projects at **[Evoris Software](https://github.com/Evoris-Software)**.
+- 💻 **Software Engineering (Bachelor's)** at [Estácio de Sá](https://estacio.br/) *(Graduated: Early 2026)*
+- 🏛️ **Philosophy:** 
+  - 📜 Bachelor's from [UFSM](https://www.ufsm.br/) *(Completed)*
+  - 🎓 Master's Degree from UFSM *(Expected: 2026)*
+  - 📚 Licentiate Degree from UFSM *(Expected: 2027)*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
